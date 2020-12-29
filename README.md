@@ -1,2 +1,2 @@
 # newtoncradle
-simple js application
+simple html/css animation
